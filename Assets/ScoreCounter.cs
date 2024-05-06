@@ -6,7 +6,7 @@ using TMPro;
 public class ScoreCounter : MonoBehaviour
 {
     private float timer = 0;
-    private float second = 1;
+    public float second = 1;
     private int score = 0;
 
     public Player script;
