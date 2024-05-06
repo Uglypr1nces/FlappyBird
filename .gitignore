@@ -360,6 +360,7 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
+<<<<<<< HEAD
 FodyWeavers.xsd
 
 # compiled binaries
@@ -468,3 +469,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+=======
+FodyWeavers.xsd
+>>>>>>> 46ca1d3a289039d9fc04583018c8b58fa0618552
