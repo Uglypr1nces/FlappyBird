@@ -8,8 +8,6 @@ using UnityEngine.UI;
 public class PipeScript : MonoBehaviour
 {
     public float moveSpeed = 5;
-    public float deadZone = -45;
-
 
     void Start()
     {
