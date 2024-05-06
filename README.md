@@ -9,11 +9,10 @@ This project is a clone of the classic Flappy Bird game, where the player contro
 ## Table of Contents
 
 - [Key Features](#features)
+- [How to play](#how-to-play)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [End Result](#end-result)
 - [Screenshots](#screenshots)
--
+- [Contributing](#contributing)
 
 ## Features
 
