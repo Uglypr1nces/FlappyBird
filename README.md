@@ -46,7 +46,7 @@ Enjoy playing Flappy Bird and happy flapping! 🐦🎮
 
 ## Video Demo
 
-[![Video Demo](https://img.youtube.com/vi/ZJFeejvR5xE/0.jpg)](https://www.youtube.com/watch?v=ZJFeejvR5xE)
+[![Video Demo](https://img.youtube.com/vi/ZJFeejvR5xE/4.jpg)](https://www.youtube.com/watch?v=ZJFeejvR5xE)
 
 ## Contributing
 
