@@ -39,7 +39,7 @@ Clone the repository:
 
 ## Screenshots
 
-<img src="content gameplay.png" alt="gameplay">
+<img src="content/gameplay.png" alt="gameplay">
 
 Enjoy playing Flappy Bird and happy flapping! 🐦🎮
 
