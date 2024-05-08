@@ -44,6 +44,10 @@ Clone the repository:
 
 Enjoy playing Flappy Bird and happy flapping! 🐦🎮
 
+## Video Demo
+
+[![Video Demo](https://img.youtube.com/vi/ZJFeejvR5xE/0.jpg)](https://www.youtube.com/watch?v=ZJFeejvR5xE)
+
 ## Contributing
 
 We welcome contributions from the community to help this game further. Whether it's fixing bugs, adding new features, or enhancing the UI, your contributions are highly appreciated.
