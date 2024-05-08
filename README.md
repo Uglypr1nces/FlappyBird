@@ -38,7 +38,9 @@ Clone the repository:
 
 ## Screenshots
 
-![Gameplay Screenshot](gameplay_screenshot.png)
+<video width="320" height="240" controls>
+  <source src="content/GamePlay.mp4" type="video/mp4">
+</video>
 
 Enjoy playing Flappy Bird and happy flapping! 🐦🎮
 
