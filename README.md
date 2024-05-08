@@ -12,6 +12,7 @@ This project is a clone of the classic Flappy Bird game, where the player contro
 - [How to play](#how-to-play)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
+- [Video Demo](#video-demo)
 - [Contributing](#contributing)
 
 ## Features
@@ -38,15 +39,13 @@ Clone the repository:
 
 ## Screenshots
 
-<video width="320" height="240" controls>
-  <source src="content/GamePlay.mp4" type="video/mp4">
-</video>
+<img src="content gameplay.png" alt="gameplay">
 
 Enjoy playing Flappy Bird and happy flapping! 🐦🎮
 
 ## Video Demo
 
-[![Video Demo](https://img.youtube.com/vi/ZJFeejvR5xE/4.jpg)](https://www.youtube.com/watch?v=ZJFeejvR5xE)
+[![Video Demo](https://img.youtube.com/vi/ZJFeejvR5xE/0.jpg)](https://www.youtube.com/watch?v=ZJFeejvR5xE)
 
 ## Contributing
 
