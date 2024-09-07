@@ -36,12 +36,11 @@ Clone the repository:
 ```bash
     git clone https://github.com/Uglypr1nces/Chatify.git
 ```
+Enjoy playing Flappy Bird and happy flapping! 🐦🎮
 
 ## Screenshots
 
 <img src="content/gameplay.png" alt="gameplay">
-
-Enjoy playing Flappy Bird and happy flapping! 🐦🎮
 
 ## Video Demo
 
